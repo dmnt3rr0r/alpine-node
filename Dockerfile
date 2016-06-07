@@ -1,5 +1,5 @@
-# FROM alpine:3.3
-FROM alpine:3.4
+# FROM alpine:3.4
+FROM golang:alpine
 
 # ENV VERSION=v0.10.45 CFLAGS="-D__USE_MISC" NPM_VERSION=2
 # ENV VERSION=v0.12.14 NPM_VERSION=2
